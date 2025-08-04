@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mogan G
 
-🎓 **AI & DS Student | 🎨 UI/UX Designer**
+🎓 **AI & DS Student | 🎨 UI/UX Designer(Student)**
 
 I'm a passionate **UI/UX designer** currently pursuing B.Tech in Artificial Intelligence and Data Science at **Sri Manakula Vinayagar Engineering College**, Pondicherry. I love designing intuitive and user-friendly digital experiences using tools like **Figma** and **Canva**.
 
