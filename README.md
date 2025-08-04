@@ -13,7 +13,7 @@ I'm a passionate **UI/UX designer** currently pursuing B.Tech in Artificial Inte
 - Mobile App Design
 - User Research & Design Thinking
 - Usability Testing
-- Tools: **Figma**, **Canva**, Adobe Photoshop (Basic)
+- Tools: **Figma**, **Canva**
 
 ---
 
