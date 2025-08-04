@@ -30,11 +30,11 @@ I'm a passionate **UI/UX designer** currently pursuing B.Tech in Artificial Inte
 
 ## 🚀 Projects
 
-### 📌 [Pinterest---Save-to-folders](#)
+### 📌 [Pinterest---Save-to-folders](https://github.com/MGGAMERS/Pinterest---Save-to-folders)
 - Tool: **Figma**
 - Added a feature to organize saved pins into custom folders for better accessibility.
 
-### 🧠 [AR-VR-Home-Menu-UI-Design](#)
+### 🧠 [AR-VR-Home-Menu-UI-Design](https://github.com/MGGAMERS/AR-VR-Home-Menu-UI-Design)
 - Tool: **Figma**
 - Designed a futuristic and user-friendly interface for AR/VR environments, focusing on spatial interaction and accessibility.
 
